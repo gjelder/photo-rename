@@ -1,1 +1,1 @@
-# photo-renamed
+# photo-rename
